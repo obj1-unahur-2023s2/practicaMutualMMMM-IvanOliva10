@@ -4,3 +4,4 @@ object wollok {
 		return 'I am Wolloktastic!'
 	}
 }
+//a ver  q onda looco  
